@@ -1,0 +1,4 @@
+fastapi==0.68.2
+uvicorn==0.15.0
+torch==1.10.0  # or any specific version that works for your YOLOv10 model
+pillow==8.4.0  # for image processing
